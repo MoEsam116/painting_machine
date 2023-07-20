@@ -35,6 +35,6 @@ How to Use:
 
 5-The interrupt-triggered buttons will automatically engage when the mechanism reaches the end of the track, ensuring a safe return to the origin point without damaging the tracks.
 
-click the link to watch a video for the machine working in the real life ⇊🎨
+click the link to watch a video for the machine working in real life ⇊🎨
 
 https://drive.google.com/file/d/1Jn75TfsrKhzelcbz8VGXu4qI9IHfaMGv/view?usp=drive_link
