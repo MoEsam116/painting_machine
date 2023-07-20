@@ -24,6 +24,7 @@ Components Used:
 6-Painting Mechanism
 
 How to Use:
+
 1-Connect the power supply unit to the microcontroller and the motor drivers.
 
 2-Load the painting mechanism with the desired paint and securely attach it to the machine.
